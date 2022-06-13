@@ -1,2 +1,2 @@
-var="Hello World"
+var="Hello Mother Fkr"
 print(var)
